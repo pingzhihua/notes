@@ -17,7 +17,7 @@
 
   4. ***
 
-  5. ![](images\2827bb7bae8138bc8a67bf240cfeaf16.jpg)
+  5. ![](images/2827bb7bae8138bc8a67bf240cfeaf16.jpg)
 
   6. `js`
 
